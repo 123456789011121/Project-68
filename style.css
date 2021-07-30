@@ -1,0 +1,20 @@
+body {
+    text-align: center
+}
+
+#textAlignOverride {
+    text-align: right;
+    margin-bottom: 0px
+}
+
+#titles {
+    text-decoration: underline
+}
+
+#st.xavierSchool {
+    display: inline
+}
+
+textAlignOverride333{
+    text-decoration: underline
+}
